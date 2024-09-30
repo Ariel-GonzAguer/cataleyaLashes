@@ -1,6 +1,7 @@
 .descriptionSection {
   text-align: center;
   font-family: "Montserrat", sans-serif;
+  width: 90%;
 
   & p {
     line-height: 1.6rem;

@@ -19,7 +19,7 @@
 .backButton,
 .forwardButton {
   position: absolute;
-  top: 50%;
+  top: 90%;
   cursor: pointer;
   z-index: 1;
   outline: none;
