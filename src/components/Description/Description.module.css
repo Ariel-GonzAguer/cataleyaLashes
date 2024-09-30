@@ -1,0 +1,8 @@
+.descriptionSection {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+
+  & p {
+    line-height: 1.6rem;
+  }
+}

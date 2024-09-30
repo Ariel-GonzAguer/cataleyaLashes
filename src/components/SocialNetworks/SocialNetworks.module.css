@@ -1,0 +1,17 @@
+.socialNetworks {
+  width: 20%;
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto 50px;
+
+  & img {
+    width: 50px;
+    cursor: pointer;
+  }
+
+  @media (max-width: 420px) {
+    width: 60%;
+  }
+}

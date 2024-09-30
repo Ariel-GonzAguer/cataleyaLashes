@@ -1,5 +1,5 @@
 Paleta colores:
-503459
-81638b
-b695c0
-dac9df
+503459: morado muy oscuro
+81638b: morado menos oscuro, pero oscuri
+b695c0: morado lindo
+dac9df: morado claro
