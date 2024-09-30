@@ -37,11 +37,6 @@
     width: 100%;
     height: 2rem;
     background-color: #dac9df;
-
-    & .focused {
-      border: 2px solid black;
-      background-color: red;
-    }
   }
 
   & textarea {
